@@ -9,7 +9,7 @@ export default function HomePage() {
   return (
     <>
       <Header />
-      { /* <h1>This is our Home Page...</h1>
+      { /* <h1>This is our Home Page... I want to check repo is working</h1>
       <h2>This Home Page will be the first viewing page for this app</h2>
       <h3>This page will contain Quick Search Bar, User can able to search quick tips about companssionate leadership</h3>--> */ }
       <QuickSearchBar />
